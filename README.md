@@ -1,5 +1,6 @@
 # LoRa Beacon
-**An off grid long range low power radio network for location information**
+**An off grid long range low power radio network for location information.**
+
 Concieved as art project / beacon finder for Burning Man, with an eye towards other rugged off-grid tracking use cases
 
 The beacons use a Esp32 microcontroller to: 
