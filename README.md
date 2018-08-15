@@ -8,7 +8,7 @@ The beacons use a Esp32 microcontroller to:
 2) Distribute that position via a LoRa radio network
 3) Display recieved positions in human-meaningful form on a low power display
 
-![Testing an early stage beacon](https://imgur.com/M7MqfNt)
+![Testing an early stage beacon](https://i.imgur.com/M7MqfNt.jpg)
 
 
 
