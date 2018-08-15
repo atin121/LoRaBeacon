@@ -21,6 +21,6 @@ Pull requests and questions welcome!
 - SSD1306 32x128px 3.3v OLED display
 
 # General Usage Notes
-- Will need an appropriate library for your display and board (though for this specific controller the ESP32 debv board configuration in the Arduino IDE works well)
+- Will need an appropriate library for your display and board (though for this specific controller the ESP32 dev board configuration in the Arduino IDE works well)
 - Understand the constants (as indicated by comments in the Main.ino code) and make sure they are configured appropriately for your use case
 - The TTGO will blink a red LED (next to the power) once a GPS fix is aquired - until that point, no packets are sent or recieved (because it uses the GPS time clock to synch transmission). To test indoors, set the modeNoGpsTesting flag to true to recieve and display packets only. 
