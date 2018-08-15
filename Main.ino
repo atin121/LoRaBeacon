@@ -90,7 +90,7 @@ void loop() {
     gpsFix = true;
   }
   
-  if((gps.time.second() % modValue == userRadioId) && (gpsFix = true)){
+  if((gps.time.second() % modValue == userRadioId) && (gpsFix == true)){
     //time to transmit, adding a small random delay to help ease congestion
     const int randy = random(0,200);
     gpsWait(randy);
