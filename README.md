@@ -19,6 +19,8 @@ Pull requests and questions welcome!
 # Hardware Specifics
 - Esp32 TTGO T-Beam 895/915mhz microcontroller
 - SSD1306 32x128px 3.3v OLED display
+  - Wiring SCL to GPIO022 and SDA to 21
+  - VCC to 3.3v
 
 # General Usage Notes
 - Will need an appropriate library for your display and board (though for this specific controller the ESP32 dev board configuration in the Arduino IDE works well)
