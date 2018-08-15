@@ -8,9 +8,14 @@ The beacons use a Esp32 microcontroller to:
 2) Distribute that position via a LoRa radio network
 3) Display recieved positions in human-meaningful form on a low power display
 
+![Testing an early stage beacon](https://imgur.com/a/IvQVCDO)
+
+
+
 This project (and all source code) is distributed under a Creative Commons - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/ In short, if you use this code, you cannot sell it, and you need to attribute at some place where you got it from (so the creators can see all the cool stuff you are up to). Inspired by the Future Robot's 2017 Tailsman art project. 
 
 Pull requests and questions welcome!
+
 
 
 # Hardware Specifics
